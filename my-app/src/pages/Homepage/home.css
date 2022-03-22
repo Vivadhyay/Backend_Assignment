@@ -1,0 +1,29 @@
+.homepage{
+padding-top: 100px;
+}
+.homepage p {
+    font-size: 18px;
+    padding: 20px 20px;
+}
+
+.profile {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.profile img {
+    width: 400px;
+    height: 500px;
+}
+.parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.parent h3 {
+    margin-left: 10px;;
+}
